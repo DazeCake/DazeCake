@@ -3,11 +3,11 @@
 </a>
 你好，我是DazeCake
 
-目前就读SYLU，喜欢速食食品。有一个Minecraft BE服务器在运营中。
+目前就读SYLU，喜欢速食食品。有一个[明日方舟托管服务](https://ark.aegirtech.com/)运营中。
 
 代码很烂，画技拉跨，争取做一个有趣的人
 
-欢迎访问我的[博客](https://blog.dazecake.moe/)
+欢迎访问我的[博客](http://blog.dazecake.moe/)
 
 经常玩的东西
 
